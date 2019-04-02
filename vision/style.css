@@ -1,0 +1,122 @@
+   
+body{
+background:black ; font-family: 'Lato', helvetica, arial, sans-serif; font-size: 16px; color: #222;
+}
+
+
+#a{
+    width: 70%;
+	max-width: 800px;
+	background: #eafffb;
+    height: 1000px;
+	margin: 30px auto;
+    padding: inherit;
+}
+#name {
+	width: 90%;
+	max-width: 800px;
+	background: #89f9e4;
+	margin: 30px auto;
+    padding: 25px 35px;
+	border-bottom: 2px solid #cf8a05;
+    font-family: algerian;
+	background: ##eafffb;
+    text-align:center;
+}
+#headshot img {
+	width: 80%;
+	height: auto;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+}
+
+#headshot {
+	width: 12.5%;
+	float: right;
+	margin-right: 30px;
+}
+#contactDetails {
+	float: right;
+    border:0;
+font:inherit;
+    
+font-size:100%;
+margin:0;
+padding-right: 30px;
+vertical-align:baseline;
+}
+#n
+{
+    float: left;
+    padding-top:15px;
+    border:0;
+font:inherit;
+font-size:100%;
+margin:0;
+padding-left:30px;
+vertical-align:baseline;
+    
+}
+#c
+{ float:left;
+    font: Blackadder ITC;
+    padding-left:30px;
+    padding-top: 50px;
+
+}
+#d
+{
+    float: right;
+    padding-right: 175px;
+}
+#e
+{
+    float: right;
+    padding-right: 80px;
+}
+#f
+{
+    float: right;
+    padding-right: 65px;
+}
+#g
+{
+    float: right;
+    padding-right:14px;
+    
+}
+#h
+{
+    float:left;
+    font: Blackadder ITC;
+    padding-left:30px;
+    padding-top: 100px;
+
+}
+#i
+{ float:left;
+    font: Blackadder ITC;
+    padding-left:30px;
+    padding-top: 80px;
+
+}
+#j
+{ float:left;
+    font: Blackadder ITC;
+    padding-left:30px;
+    padding-top: 90px;
+
+}
+#k
+{ float:left;
+    font: Blackadder ITC;
+    padding-left:30px;
+    padding-top: 100px;
+
+}
+#l
+{
+    float: right;
+    padding-right:200px;
+    
+}
